@@ -1,0 +1,26 @@
+name: Enable and publish GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enable Pages from main branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          code=$(curl -sS -o /tmp/pages.json -w "%{http_code}" \
+            -X POST "https://api.github.com/repos/$REPO/pages" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -d '{"source":{"branch":"main","path":"/"}}')
+          cat /tmp/pages.json
+          test "$code" = "201" -o "$code" = "409" -o "$code" = "422"
