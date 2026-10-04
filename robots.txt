@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phenomenal-maamoul-a7cc34.netlify.app/qa-index.html

@@ -1,0 +1,362 @@
+{
+  "projects": [
+    {
+      "id": "boat-2018",
+      "year": "2018",
+      "zh": "自己造的船，来到水边",
+      "en": "A boat we built, taken to the water",
+      "place": {
+        "zh": "武汉 / 水边",
+        "en": "Wuhan / the water"
+      },
+      "type": {
+        "zh": "造船工作坊",
+        "en": "Boatbuilding workshop"
+      },
+      "image": "archive-boat-making.jpg",
+      "secondary": "archive-boat-water.jpg",
+      "summary": {
+        "zh": "从木头切割、拼接到打磨，参与者在近三个月里造好自己的船，并将它带到水边。",
+        "en": "Participants cut, joined and sanded timber over nearly three months, then took their boat to the water."
+      },
+      "process": [
+        {
+          "zh": "切割",
+          "en": "Cutting"
+        },
+        {
+          "zh": "拼接",
+          "en": "Joining"
+        },
+        {
+          "zh": "打磨",
+          "en": "Sanding"
+        },
+        {
+          "zh": "下水",
+          "en": "On the water"
+        }
+      ],
+      "source": "《我们乘着自己造的船来到了水边》 · PFS 公众号 · 2018-06-28"
+    },
+    {
+      "id": "xinjiang-2019",
+      "year": "2019",
+      "zh": "去新疆盖房子",
+      "en": "A building invitation in Xinjiang",
+      "place": {
+        "zh": "新疆 · 乌鲁木齐南山",
+        "en": "Nanshan, Ürümqi, Xinjiang"
+      },
+      "type": {
+        "zh": "建造招募资料",
+        "en": "Building invitation archive"
+      },
+      "image": "archive-xinjiang-process.jpg",
+      "summary": {
+        "zh": "历史招募提出在南山建造一间可由朋友共同搭建的离网小屋，介绍数字榫卯、发电和水处理的方案。图像为历史方案与过程资料，不作为当前场地实景。",
+        "en": "A historical invitation proposed a self-sufficient cabin in Nanshan and described digital joinery, energy and water systems. This is archival planning material, not the current site."
+      },
+      "process": [
+        {
+          "zh": "数字榫卯",
+          "en": "Digital joinery"
+        },
+        {
+          "zh": "能源",
+          "en": "Energy"
+        },
+        {
+          "zh": "水循环",
+          "en": "Water systems"
+        }
+      ],
+      "source": "《招募｜和我们去新疆盖房子》 · PFS 公众号 · 2019-09-17"
+    },
+    {
+      "id": "openbike-2022",
+      "year": "2022",
+      "zh": "OPENBIKE 夜校",
+      "en": "OPENBIKE evening school",
+      "place": {
+        "zh": "武汉",
+        "en": "Wuhan"
+      },
+      "type": {
+        "zh": "木制自行车工作坊",
+        "en": "Wooden bicycle workshop"
+      },
+      "image": "archive-openbike.jpg",
+      "summary": {
+        "zh": "夜校以开源木制自行车为对象，参与者修改设计，学习数字榫卯与 CNC 加工，并制作自行车。",
+        "en": "An evening workshop used the open-source wooden bicycle to learn design changes, digital joinery, CNC fabrication and assembly."
+      },
+      "process": [
+        {
+          "zh": "修改设计",
+          "en": "Adapt a design"
+        },
+        {
+          "zh": "数控加工",
+          "en": "CNC fabrication"
+        },
+        {
+          "zh": "制作组装",
+          "en": "Make and assemble"
+        }
+      ],
+      "source": "《夜校第一期｜骑出个未来 OPENBIKE 工作坊招募》 · PFS 公众号 · 2022-05-19"
+    },
+    {
+      "id": "songshan-2023",
+      "year": "2023",
+      "zh": "松鼠与大山自然社区改造",
+      "en": "Squirrel & Mountain community adaptation",
+      "place": {
+        "zh": "上海 · 闵行",
+        "en": "Minhang, Shanghai"
+      },
+      "type": {
+        "zh": "空间改造 / 居民共建",
+        "en": "Spatial adaptation / collective building"
+      },
+      "image": "archive-shanghai-interior.jpg",
+      "secondary": "archive-shanghai-making.jpg",
+      "summary": {
+        "zh": "在旧纺织厂中加入可拆卸的胶合板木构，以 CNC 切割部件与干式装配组织空间；社区居民参与建造。项目发表于 2024 年。",
+        "en": "Demountable plywood structures were cut by CNC and dry assembled inside a former textile factory, with community participation. Published in 2024."
+      },
+      "process": [
+        {
+          "zh": "数字设计",
+          "en": "Digital design"
+        },
+        {
+          "zh": "预制部件",
+          "en": "Prefabrication"
+        },
+        {
+          "zh": "现场组装",
+          "en": "On-site assembly"
+        }
+      ],
+      "source": "《新作来了。上海闵行松鼠与大山自然社区》 · PFS 公众号 · 2024-01-16"
+    },
+    {
+      "id": "digital-shop-2024",
+      "year": "2024",
+      "zh": "PFS 社区数字家具商店",
+      "en": "PFS community digital furniture shop",
+      "place": {
+        "zh": "历史城市项目",
+        "en": "Historical urban project"
+      },
+      "type": {
+        "zh": "数字榫卯建筑",
+        "en": "Digital joinery architecture"
+      },
+      "image": "asset-shop-team.png",
+      "secondary": "archive-digital-shop-making.jpg",
+      "summary": {
+        "zh": "2024 年的项目文章记录了数字家具商店的榫卯木构和 CNC 加工过程；这是历史项目，不是当前 PFS 建造学校的线下店。",
+        "en": "A 2024 project article records timber joinery and CNC fabrication for a digital furniture shop. It is a historical project, not the current on-site shop."
+      },
+      "process": [
+        {
+          "zh": "CNC 切割",
+          "en": "CNC cutting"
+        },
+        {
+          "zh": "榫卯拼接",
+          "en": "Joinery"
+        },
+        {
+          "zh": "现场建造",
+          "en": "Site building"
+        }
+      ],
+      "source": "《PFS 社区数字家具商店入围 2024 年度建筑大奖》 · PFS 公众号 · 2024-03-17"
+    },
+    {
+      "id": "big-foot",
+      "year": "2024–25",
+      "zh": "Big Foot｜大角怪公众共建",
+      "en": "Big Foot | Dajiaoguai Public Co-build",
+      "place": {
+        "zh": "PFS 项目记录",
+        "en": "PFS project record"
+      },
+      "type": {
+        "zh": "公众共建",
+        "en": "Public co-build"
+      },
+      "summary": {
+        "zh": "从“邀请你来盖房子”到“探索另一种居住的可能”与“万物好搭季”的公众共建记录。",
+        "en": "A public co-build record connecting an invitation to build, an exploration of another way of living and the Making Everything Fit season."
+      },
+      "process": [
+        {
+          "zh": "邀请参与",
+          "en": "Invitation to participate"
+        },
+        {
+          "zh": "共同建造",
+          "en": "Building together"
+        },
+        {
+          "zh": "持续记录",
+          "en": "Ongoing documentation"
+        }
+      ],
+      "image": "asset-team-build-close.jpg",
+      "source": "Big Foot / 大角怪公众共建 · 2024-05-31—2025-09-20 · 3 articles / 16 pages"
+    }
+  ],
+  "sourceLabels": {
+    "historical": {
+      "zh": "PFS 历史项目影像 · 非当前场地实景",
+      "en": "PFS historical project image · not the current site"
+    },
+    "building": {
+      "zh": "PFS 建造过程影像",
+      "en": "PFS building process image"
+    },
+    "plan": {
+      "zh": "方案图 / 空间关系示意",
+      "en": "Proposal / spatial relationship diagram"
+    }
+  },
+  "courseProcesses": {
+    "openbike": [
+      "设计 / Design",
+      "CNC / CNC",
+      "激光 / Laser",
+      "3D 打印 / 3D printing"
+    ],
+    "stripe-canoe": [
+      "设计 / Design",
+      "开料 / Cutting",
+      "榫卯拼接 / Joinery",
+      "蒸汽弯曲 / Steam bending",
+      "树脂封胶 / Resin sealing",
+      "打磨、光油 / Sanding & varnish"
+    ],
+    "stitch-canoe": [
+      "设计 / Design",
+      "开料 / Cutting",
+      "缝接 / Stitching",
+      "树脂封胶 / Resin sealing",
+      "打磨、光油 / Sanding & varnish"
+    ],
+    "paddle": [
+      "设计 / Design",
+      "开料 / Cutting",
+      "塑形 / Shaping",
+      "打磨 / Sanding",
+      "防水 / Waterproofing"
+    ]
+  },
+  "kitComponentsEn": [
+    "30 m² Micro Home digital joinery building kit",
+    "30 kW lithium battery and associated power generation system",
+    "Wastewater treatment and greywater garden",
+    "Composting toilet (Chuanglvjia project)",
+    "Gandalf family landscape kit",
+    "RADIO remote cabin management system"
+  ],
+  "kitDescriptionEn": "Source description: the world’s first self-build open-source off-grid house kit",
+  "kitUseEn": "Source application: a low-carbon personal studio or house",
+  "events": [],
+  "mapDescriptions": {
+    "community": {
+      "zh": "大角怪社区连接场地、开源房屋套件与公众共建记录。",
+      "en": "Dajiaoguai Community connects the site, open-source building kit and public co-build record."
+    },
+    "school": {
+      "zh": "开源建造学校连接课程、制作与真实建造实践。",
+      "en": "The Open-source Building School connects courses, making and real building practice."
+    },
+    "big-ship": {
+      "zh": "大飞船是场地空间节点，英文名称仅使用 The Spaceship。",
+      "en": "The Spaceship is a spatial node within the PFS site."
+    },
+    "shipyard": {
+      "zh": "船厂连接造船、船桨、OPENBIKE、数字家具、P-CUT 与船厂大厅。",
+      "en": "The Shipyard connects boats, paddles, OPENBIKE, digital furniture, P-CUT and Shipyard Hall."
+    },
+    "soft-house": {
+      "zh": "软手屋是九个场地节点之一，并与 STAY 路径建立关系。",
+      "en": "Soft House is one of nine site nodes and relates to the STAY path."
+    },
+    "staff-house": {
+      "zh": "员工小屋是场地关系图中的轻量空间节点。",
+      "en": "Staff Cabin is a lightweight place node in the site relationship map."
+    },
+    "tree": {
+      "zh": "古树标记场地中长期存在的自然节点。",
+      "en": "The Ancient Tree marks a long-standing natural node on the site."
+    },
+    "parking": {
+      "zh": "停车场是到达场地时使用的空间节点。",
+      "en": "Parking is a site node used on arrival."
+    },
+    "farmland": {
+      "zh": "农田构成 PFS 场地土地关系的一部分。",
+      "en": "Farmland is part of the land relationships across the PFS site."
+    }
+  },
+  "operatingFacts": {
+    "openDaily": "10:00–18:00",
+    "stay": {
+      "checkIn": "14:00",
+      "checkOut": "12:00",
+      "breakfast": "08:00–10:00",
+      "included": true
+    },
+    "contact": {
+      "email": "info@pfs.cool",
+      "secondaryEmail": "partyfriendship@126.com",
+      "wechat": "pfspfs000",
+      "officialAccount": "PFS4YOU",
+      "xiaohongshu": "pfspfs000"
+    }
+  },
+  "assetBindings": {
+    "asset-cnc-router.jpg": {
+      "canonical": "p-cut",
+      "primaryHome": "P-CUT",
+      "required": true
+    },
+    "asset-building-process.png": {
+      "canonical": "building",
+      "primaryHome": "BUILDING",
+      "required": true
+    },
+    "asset-shop-team.png": {
+      "canonical": "digital-shop-2024",
+      "primaryHome": "HOUSE OF PFS / Digital Furniture",
+      "required": true
+    },
+    "asset-team-build-close.jpg": {
+      "canonical": "build-with-pfs",
+      "primaryHome": "WORK WITH US / Build With PFS",
+      "required": true
+    },
+    "asset-summer-camp.png": {
+      "canonical": "future-architects",
+      "primaryHome": "Future Architects",
+      "required": true
+    },
+    "asset-team-work.png": {
+      "canonical": "building",
+      "primaryHome": "BUILDING / collaborative making",
+      "required": true
+    },
+    "asset-anji-island.jpg": {
+      "canonical": null,
+      "primaryHome": null,
+      "required": false,
+      "status": "HOLD"
+    }
+  }
+}

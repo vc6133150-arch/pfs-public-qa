@@ -1,0 +1,1126 @@
+{
+  "version": "6.6-content-alignment",
+  "source": "PFS_Website_Structure_V6.6_Final_Bilingual.docx",
+  "pages": [
+    {
+      "id": "visit",
+      "zh": "来到 PFS",
+      "en": "VISIT",
+      "children": [
+        {
+          "id": "plan",
+          "zh": "计划到访",
+          "en": "Plan Your Visit",
+          "children": []
+        },
+        {
+          "id": "guidebook",
+          "zh": "指南",
+          "en": "Guidebook",
+          "children": []
+        },
+        {
+          "id": "exhibition",
+          "zh": "展示体验",
+          "en": "Exhibition Experience",
+          "children": []
+        },
+        {
+          "id": "food",
+          "zh": "吃喝",
+          "en": "Eat & Drink",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "stay",
+      "zh": "住进 PFS",
+      "en": "STAY",
+      "children": [
+        {
+          "id": "Arrival",
+          "zh": "Arrival",
+          "en": "Arrival",
+          "children": []
+        },
+        {
+          "id": "Living",
+          "zh": "Living",
+          "en": "Living",
+          "children": []
+        },
+        {
+          "id": "Learning",
+          "zh": "Learning",
+          "en": "Learning",
+          "children": []
+        },
+        {
+          "id": "Making",
+          "zh": "Making",
+          "en": "Making",
+          "children": []
+        },
+        {
+          "id": "Leaving",
+          "zh": "Leaving",
+          "en": "Leaving",
+          "children": []
+        },
+        {
+          "id": "accommodation",
+          "zh": "住宿",
+          "en": "Accommodation",
+          "children": [
+            {
+              "id": "single",
+              "zh": "单人间",
+              "en": "Single Room",
+              "children": []
+            },
+            {
+              "id": "double",
+              "zh": "双人间",
+              "en": "Double Room",
+              "children": []
+            },
+            {
+              "id": "shared",
+              "zh": "多人间",
+              "en": "Shared Room",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "programs",
+          "zh": "Stay Programs｜参与路径",
+          "en": "Stay Programs",
+          "children": []
+        }
+      ],
+      "body": {
+        "zh": "在 PFS 建造学校，停留、生活与建造发生在同一真实场地。Learning 与 Making 发生在 Building 之中。",
+        "en": "At PFS Building School, staying, living and building form one experience on a real site. Learning and making happen within building."
+      }
+    },
+    {
+      "id": "building",
+      "zh": "建造体验",
+      "en": "BUILDING",
+      "children": [
+        {
+          "id": "try",
+          "zh": "随时试",
+          "en": "TRY",
+          "children": []
+        },
+        {
+          "id": "join",
+          "zh": "参加活动",
+          "en": "JOIN",
+          "children": []
+        },
+        {
+          "id": "courses",
+          "zh": "参加课程",
+          "en": "COURSES",
+          "children": [
+            {
+              "id": "library",
+              "zh": "课程库",
+              "en": "COURSE LIBRARY",
+              "children": [
+                {
+                  "id": "openbike",
+                  "zh": "OPENBIKE",
+                  "en": "OPENBIKE",
+                  "children": []
+                },
+                {
+                  "id": "shipyard",
+                  "zh": "船厂 SCHOOL",
+                  "en": "Shipyard SCHOOL",
+                  "children": [
+                    {
+                      "id": "stripe-canoe",
+                      "zh": "Stripe Canoe",
+                      "en": "Stripe Canoe",
+                      "children": []
+                    },
+                    {
+                      "id": "stitch-canoe",
+                      "zh": "Stitch Canoe",
+                      "en": "Stitch Canoe",
+                      "children": []
+                    },
+                    {
+                      "id": "paddle",
+                      "zh": "Paddle",
+                      "en": "Paddle",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "cabin-company",
+                  "zh": "大角怪小屋公司课程",
+                  "en": "Dajiaoguai Cabin Company Courses",
+                  "children": [
+                    {
+                      "id": "furniture",
+                      "zh": "家具课程",
+                      "en": "Furniture Courses",
+                      "children": []
+                    },
+                    {
+                      "id": "digital-furniture",
+                      "zh": "数字家具",
+                      "en": "Digital Furniture",
+                      "children": []
+                    },
+                    {
+                      "id": "rocket-stool",
+                      "zh": "火箭凳",
+                      "en": "Rocket Stool",
+                      "children": []
+                    },
+                    {
+                      "id": "swish",
+                      "zh": "Swish",
+                      "en": "Swish",
+                      "children": []
+                    },
+                    {
+                      "id": "neubau",
+                      "zh": "Neubau",
+                      "en": "Neubau",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "common-knowledge",
+                  "zh": "常识班",
+                  "en": "Common Knowledge Classes",
+                  "children": [
+                    {
+                      "id": "digital-joinery",
+                      "zh": "数字榫卯",
+                      "en": "Digital Joinery",
+                      "children": []
+                    },
+                    {
+                      "id": "energy",
+                      "zh": "发电",
+                      "en": "Energy",
+                      "children": []
+                    },
+                    {
+                      "id": "water",
+                      "zh": "水系统",
+                      "en": "Water System",
+                      "children": []
+                    },
+                    {
+                      "id": "architecture",
+                      "zh": "建筑",
+                      "en": "Architecture",
+                      "children": []
+                    },
+                    {
+                      "id": "painting",
+                      "zh": "刷漆",
+                      "en": "Painting",
+                      "children": []
+                    },
+                    {
+                      "id": "cement",
+                      "zh": "水泥",
+                      "en": "Cement",
+                      "children": []
+                    },
+                    {
+                      "id": "hardware-welding",
+                      "zh": "五金焊接",
+                      "en": "Hardware & Welding",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "wilderness",
+                  "zh": "荒野建造大师班",
+                  "en": "Wilderness Building Masterclass",
+                  "children": []
+                },
+                {
+                  "id": "future-architects",
+                  "zh": "未来建筑师",
+                  "en": "Future Architects",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "build",
+          "zh": "建造实践",
+          "en": "BUILD",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "shop",
+      "zh": "带走 PFS",
+      "en": "SHOP",
+      "children": [
+        {
+          "id": "online",
+          "zh": "线上商店",
+          "en": "ONLINE SHOP",
+          "children": [
+            {
+              "id": "kits",
+              "zh": "DIY KITS｜软手包",
+              "en": "DIY KITS",
+              "children": [
+                {
+                  "id": "avant",
+                  "zh": "阿凡提",
+                  "en": "Afanti",
+                  "children": []
+                },
+                {
+                  "id": "coaster",
+                  "zh": "DIY杯垫",
+                  "en": "DIY Coaster",
+                  "children": []
+                },
+                {
+                  "id": "clock",
+                  "zh": "创意时钟",
+                  "en": "Creative Clock",
+                  "children": []
+                },
+                {
+                  "id": "animals",
+                  "zh": "动物摆件",
+                  "en": "Animal Ornaments",
+                  "children": []
+                },
+                {
+                  "id": "badger",
+                  "zh": "狗獾椅子",
+                  "en": "Badger Chair",
+                  "children": []
+                },
+                {
+                  "id": "opener",
+                  "zh": "开瓶器",
+                  "en": "Bottle Opener",
+                  "children": []
+                },
+                {
+                  "id": "stool",
+                  "zh": "三角凳",
+                  "en": "Triangle Stool",
+                  "children": []
+                },
+                {
+                  "id": "cat",
+                  "zh": "瓦猫",
+                  "en": "Tile Cat",
+                  "children": []
+                },
+                {
+                  "id": "cabinet",
+                  "zh": "富柜",
+                  "en": "Fugui Cabinet",
+                  "children": []
+                },
+                {
+                  "id": "swish",
+                  "zh": "Swish Chair",
+                  "en": "Swish Chair",
+                  "children": []
+                },
+                {
+                  "id": "neubau",
+                  "zh": "Neubau",
+                  "en": "Neubau",
+                  "children": []
+                }
+              ],
+              "route": "shop/kits"
+            },
+            {
+              "id": "building-kits",
+              "zh": "BUILDING KITS｜大角怪套件",
+              "en": "BUILDING KITS",
+              "children": [
+                {
+                  "id": "dajiaoguai",
+                  "zh": "大角怪｜数字盖房套件",
+                  "en": "Dajiaoguai / Open Source Building Kit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "pfs-goods",
+              "zh": "PFS GOODS",
+              "en": "PFS GOODS",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "offline",
+          "zh": "线下商店",
+          "en": "OFFLINE SHOP",
+          "children": [
+            {
+              "id": "hall",
+              "zh": "PFS船厂大厅",
+              "en": "PFS Shipyard Hall",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "zh": "与 PFS 共创",
+      "en": "WORK WITH US",
+      "children": [
+        {
+          "id": "volunteer",
+          "zh": "志愿参与",
+          "en": "VOLUNTEER",
+          "children": []
+        },
+        {
+          "id": "venue-hire",
+          "zh": "场地租用",
+          "en": "VENUE HIRE",
+          "children": []
+        },
+        {
+          "id": "p-cut",
+          "zh": "数字制造服务",
+          "en": "P-CUT",
+          "children": [],
+          "body": {
+            "zh": "切割出自己需要的部件。",
+            "en": "Cut the components you need."
+          }
+        },
+        {
+          "id": "idea",
+          "zh": "带来你的想法",
+          "en": "BRING YOUR IDEA",
+          "children": [],
+          "body": {
+            "zh": "从家具到房屋设计&制作。",
+            "en": "Design & making, from furniture to houses."
+          }
+        },
+        {
+          "id": "build",
+          "zh": "与PFS共建",
+          "en": "BUILD WITH PFS",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "spaces": [
+    {
+      "id": "community",
+      "zh": "大角怪社区",
+      "en": "Dajiaoguai Community",
+      "children": [],
+      "description": {
+        "zh": "大角怪社区是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Dajiaoguai Community is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "school",
+      "zh": "开源建造学校",
+      "en": "Open-source Building School",
+      "children": [],
+      "description": {
+        "zh": "开源建造学校是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Open-source Building School is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "big-ship",
+      "zh": "大飞船",
+      "en": "The Spaceship",
+      "children": [],
+      "description": {
+        "zh": "大飞船是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "The Spaceship is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "shipyard",
+      "zh": "船厂",
+      "en": "Shipyard",
+      "children": [],
+      "description": {
+        "zh": "船厂是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Shipyard is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "soft-house",
+      "zh": "软手屋",
+      "en": "Soft House",
+      "children": [],
+      "description": {
+        "zh": "软手屋是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Soft House is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "staff-house",
+      "zh": "员工小屋",
+      "en": "Staff Cabin",
+      "children": [],
+      "description": {
+        "zh": "员工小屋是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Staff Cabin is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "tree",
+      "zh": "古树",
+      "en": "Ancient Tree",
+      "children": [],
+      "description": {
+        "zh": "古树是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Ancient Tree is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "parking",
+      "zh": "停车场",
+      "en": "Parking",
+      "children": [],
+      "description": {
+        "zh": "停车场是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Parking is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    },
+    {
+      "id": "farmland",
+      "zh": "农田",
+      "en": "Farmland",
+      "children": [],
+      "description": {
+        "zh": "农田是 PFS 场地空间索引中的一个节点；当前开放状态待确认。",
+        "en": "Farmland is one of the nine PFS site nodes. Current access awaits confirmation."
+      }
+    }
+  ],
+  "footer": [
+    {
+      "id": "about",
+      "zh": "关于我们",
+      "en": "ABOUT US",
+      "children": []
+    },
+    {
+      "id": "projects",
+      "zh": "项目档案",
+      "en": "PROJECT ARCHIVE",
+      "children": []
+    },
+    {
+      "id": "faq",
+      "zh": "FAQs",
+      "en": "FAQs",
+      "children": []
+    },
+    {
+      "id": "contact",
+      "zh": "联系我们",
+      "en": "CONTACT US",
+      "children": []
+    }
+  ],
+  "events": [],
+  "stories": {
+    "visit": {
+      "lead": [
+        "从场地、展览和材料出发，认识 PFS 建造学校。到访信息仍待确认。",
+        "Explore the site, exhibitions and materials of PFS Building School. Visit details await confirmation."
+      ],
+      "sections": [
+        [
+          "到访前 / Before you visit",
+          "开放时间、入场方式、交通细节与空间开放状态尚待确认。 / Opening hours, entry, travel and access are to be confirmed."
+        ],
+        [
+          "在场地里 / On site",
+          "从九个空间节点认识场地；地图为关系示意，并非实测平面。 / Discover nine site nodes through a schematic relationship map."
+        ]
+      ]
+    },
+    "stay": {
+      "lead": [
+        "停留 → 生活 → 建造。住宿是进入 PFS 建造学校整体体验的一种方式。",
+        "Stay → Live → Build. Accommodation is one way into the complete PFS Building School experience."
+      ],
+      "sections": []
+    },
+    "building": {
+      "lead": [
+        "从尝试制作到参与课程与真实建造，沿不同路径进入 PFS 建造学校。",
+        "Enter PFS Building School through making, joining, courses and building."
+      ],
+      "sections": [
+        [
+          "参与路径 / Ways to take part",
+          "从 TRY、JOIN、COURSES 到 BUILD，课程库保存既有课程主题；当前排期和报名方式待确认。 / From TRY and JOIN to COURSES and BUILD, the library records existing subjects. Current schedules and registration await confirmation."
+        ]
+      ]
+    },
+    "shop": {
+      "lead": [
+        "从 PFS 的家具、材料包与制作文化出发，把一部分 PFS 带走。",
+        "Take part of PFS home through furniture, kits and its culture of making."
+      ],
+      "sections": [
+        [
+          "线上与现场 / Online and on site",
+          "ONLINE SHOP 与 PFS船厂大厅。产品资料不等于当前在售；价格、库存和购买方式待确认。 / Product records do not confirm current sale status; prices, stock and purchase channels are to be confirmed."
+        ]
+      ]
+    },
+    "work": {
+      "lead": [
+        "通过志愿参与、场地租用、P-CUT、带来想法与共同建造，进入 PFS 共创。",
+        "Collaborate with PFS through volunteering, venue hire, P-CUT, ideas and building together."
+      ],
+      "sections": [
+        [
+          "如何开始 / Getting started",
+          "各路径的申请条件、费用、设施和联系渠道待确认。 / Application requirements, fees, facilities and contact channels are to be confirmed."
+        ]
+      ]
+    }
+  },
+  "detail": {
+    "plan": [
+      "开放时间、入场方式、交通细节和 Visitor FAQ 仍待当前确认。",
+      "Current opening hours, entry, travel and visitor FAQ await confirmation."
+    ],
+    "guidebook": [
+      "指南以九个空间节点为索引，帮助理解场地与建造学校的关系。地图仅为空间关系示意。",
+      "The guidebook indexes nine spaces and their relationship to the Building School. The map is schematic."
+    ],
+    "exhibition": [
+      "既有资料记录 PFS 项目、建造过程、材料和互动体验；当前展示状态待确认。",
+      "Source materials record projects, building processes, materials and interaction. Current exhibition status awaits confirmation."
+    ],
+    "food": [
+      "既有资料记录咖啡和简单餐饮；当前供应与营业信息待确认。",
+      "Source materials mention coffee and simple food. Current service and hours await confirmation."
+    ],
+    "Arrival": [
+      "到达、认识场地、空间介绍与入住引导。具体流程待确认。",
+      "Arrival, site introduction and orientation. The current process awaits confirmation."
+    ],
+    "Living": [
+      "住宿空间、公共空间、社区生活与场地探索相互连接。具体设施待确认。",
+      "Rooms, shared spaces, community life and site exploration are connected. Facilities await confirmation."
+    ],
+    "Learning": [
+      "在课程与知识分享中理解材料、制造和建造。当前参与安排待确认。",
+      "Explore materials, making and building through courses and knowledge sharing. Current participation awaits confirmation."
+    ],
+    "Making": [
+      "从 Workshop 到实际制作，建造学校的体验延伸到双手。当前活动安排待确认。",
+      "From workshops to hands-on making, the Building School extends into practical work. Current activities await confirmation."
+    ],
+    "Leaving": [
+      "完成体验，带走作品、知识或启发，并与 PFS 保持连接。",
+      "Leave with a work, knowledge or inspiration, and stay connected with PFS."
+    ],
+    "accommodation": [
+      "单人间、双人间、多人间都属于 PFS 建造学校的整体体验。房间图片、配置及预订信息待确认。",
+      "Single, double and shared rooms are part of the PFS Building School experience. Room imagery, facilities and booking await confirmation."
+    ],
+    "single": [
+      "单人间是 PFS 建造学校的住宿选项。配置、价格、房态和预订方式待确认。",
+      "A single room within PFS Building School. Facilities, price, availability and booking await confirmation."
+    ],
+    "double": [
+      "双人间是 PFS 建造学校的住宿选项。配置、价格、房态和预订方式待确认。",
+      "A double room within PFS Building School. Facilities, price, availability and booking await confirmation."
+    ],
+    "shared": [
+      "多人间是 PFS 建造学校的住宿选项。配置、价格、房态和预订方式待确认。",
+      "A shared room within PFS Building School. Facilities, price, availability and booking await confirmation."
+    ],
+    "try": [
+      "既有资料记录自助材料包体验与小制作；当前开放与参与方式待确认。",
+      "Source materials record self-guided kits and small making activities. Current access awaits confirmation."
+    ],
+    "join": [
+      "既有资料记录 Open Workshop、Tour、Sharing、周末与节假日活动；请以当前日历为准。",
+      "Source materials record workshops, tours, sharing and weekend or holiday events. Check the current calendar."
+    ],
+    "courses": [
+      "课程库收录 PFS 既有课程主题；详情不代表当前开课。",
+      "The library records existing PFS course subjects; entries do not confirm current classes."
+    ],
+    "build": [
+      "既有资料记录参与 PFS 项目与真实建造实践；当前项目和参加方式待确认。",
+      "Source materials record joining PFS projects and real building practice. Current projects and participation await confirmation."
+    ],
+    "online": [
+      "以下为 PFS 产品资料，当前价格、库存与购买入口待确认。",
+      "These are PFS product records. Current prices, stock and purchase channels await confirmation."
+    ],
+    "offline": [
+      "当前线下商店地点为 PFS船厂大厅。开放时间和供应状态待确认。",
+      "The current offline shop location is PFS Shipyard Hall. Hours and availability await confirmation."
+    ],
+    "hall": [
+      "PFS船厂大厅是当前线下商店地点；现场购买与展示状态待确认。",
+      "PFS Shipyard Hall is the current offline shop location. In-person availability awaits confirmation."
+    ],
+    "kits": [
+      "软手包是数字家具材料包。以下产品资料不表示当前库存或交易状态。",
+      "DIY kits are digital furniture kits. These records do not indicate current stock or sale status."
+    ],
+    "volunteer": [
+      "志愿参与是与 PFS 共创的一条路径；申请条件与当前机会待确认。",
+      "Volunteering is one way to collaborate with PFS. Opportunities and requirements await confirmation."
+    ],
+    "venue-hire": [
+      "场地租用是与 PFS 共创的一条独立路径；用途、费用、设施与流程待确认。",
+      "Venue hire is a distinct collaboration path. Uses, fees, facilities and process await confirmation."
+    ],
+    "p-cut": [
+      "P-CUT：切割出自己需要的部件。材料、设备、费用与流程待确认。",
+      "P-CUT: cut the components you need. Materials, equipment, fees and process await confirmation."
+    ],
+    "idea": [
+      "带来你的想法，从家具到房屋设计与制作；合作方式待确认。",
+      "Bring your idea, from furniture to building design and making. Collaboration details await confirmation."
+    ],
+    "about": [
+      "派对朋友的飞船 = Party Friend Ship。PFS 建造学校是当前场地主体。",
+      "派对朋友的飞船 = Party Friend Ship. PFS Building School is the current site subject."
+    ],
+    "projects": [
+      "这里保存 PFS 项目、建造过程、空间和材料研究的档案线索；具体档案内容仍在整理。",
+      "This section indexes PFS projects, building processes, spaces and material research. Archive records are being organized."
+    ],
+    "faq": [
+      "到访、住宿、课程、购买与合作的具体运营问题仍待确认。",
+      "Operational questions about visits, stays, courses, shopping and collaboration await confirmation."
+    ],
+    "contact": [
+      "当前联系渠道尚待确认。",
+      "Current contact channels await confirmation."
+    ],
+    "programs": [
+      "历史资料将课程、Workshop、Build、农田、社区与场地探索记录为停留期间可能连接的体验；当前安排待确认。",
+      "Historical sources connect staying with courses, workshops, builds, farming, community and site exploration; current programmes await confirmation."
+    ],
+    "building-kits": [
+      "大角怪数字盖房套件为 PFS 原始视觉资料中的 BUILDING KITS 来源项目；当前交易及技术状态待确认。",
+      "The Dajiaoguai building kit appears in original PFS visual materials. Current availability and technical specifications await confirmation."
+    ],
+    "dajiaoguai": [
+      "来源资料称“大角怪｜数字盖房套件”，英文源标题 Open Source Building Kit；当前在售与技术规格待确认。",
+      "The source identifies Dajiaoguai as an Open Source Building Kit. Current sale and specifications await confirmation."
+    ],
+    "pfs-goods": [
+      "PFS GOODS 保留为线上分类；具体当前商品与交易方式待确认。",
+      "PFS GOODS remains an online category; current items and commerce channels await confirmation."
+    ]
+  },
+  "detailSections": {
+    "visit/plan": [
+      [
+        "到达与入场",
+        "既有资料记录到达信息、开放时间、消费入场及自助参观；当前规则待确认。"
+      ],
+      [
+        "访客须知",
+        "Visitor FAQ 的具体答案待当前确认；请勿将历史版本视作现行说明。"
+      ]
+    ],
+    "visit/guidebook": [
+      [
+        "九个空间节点",
+        "大角怪社区、开源建造学校、大飞船、船厂、软手屋、员工小屋、古树、停车场和农田。"
+      ],
+      [
+        "如何阅读地图",
+        "地图表达空间关系，并非实测总平面；不提供精确距离或动线。"
+      ]
+    ],
+    "visit/exhibition": [
+      [
+        "项目与过程",
+        "既有资料记录 PFS 项目展示和建造过程展示。"
+      ],
+      [
+        "材料与互动",
+        "既有资料记录材料样品及互动体验；当前展项和开放状态待确认。"
+      ]
+    ],
+    "visit/food": [
+      [
+        "现场饮食",
+        "既有资料记录咖啡与简单餐饮。"
+      ],
+      [
+        "当前供应",
+        "菜单、供应时间和价格均待确认。"
+      ]
+    ],
+    "stay/Arrival": [
+      [
+        "认识场地",
+        "到达 PFS 后，认识场地与空间是住宿体验的一部分。"
+      ],
+      [
+        "入住引导",
+        "实际到达方式、入住时间和流程待确认。"
+      ]
+    ],
+    "stay/Living": [
+      [
+        "生活与公共空间",
+        "住宿空间、公共空间、社区生活与场地探索共同组成停留体验。"
+      ],
+      [
+        "房间信息",
+        "单人间、双人间、多人间可从住宿索引查看；设施与房态待确认。"
+      ]
+    ],
+    "stay/Learning": [
+      [
+        "课程与知识",
+        "课程、Workshop 和知识分享与在场地生活相连接。"
+      ],
+      [
+        "当前参与",
+        "课程排期及具体参与方式待确认。"
+      ]
+    ],
+    "stay/Making": [
+      [
+        "材料与制作",
+        "从材料、工具到制作实践，是建造学校体验的一部分。"
+      ],
+      [
+        "当前安排",
+        "Workshop 和建造项目的当前安排待确认。"
+      ]
+    ],
+    "stay/Leaving": [
+      [
+        "带走什么",
+        "历史体验路径记录带走作品、知识或启发，并与 PFS 保持联系。"
+      ],
+      [
+        "后续联系",
+        "具体联系渠道待确认。"
+      ]
+    ],
+    "building/try": [
+      [
+        "自助制作",
+        "既有资料记录 Self-Guided 材料包体验与小制作。"
+      ],
+      [
+        "参与状态",
+        "是否开放、是否需要预约及费用待确认。"
+      ]
+    ],
+    "building/join": [
+      [
+        "参与形式",
+        "既有资料记录 Open Workshop、Tour、Sharing、周末及节假日活动。"
+      ],
+      [
+        "时间与预约",
+        "当前活动和预约规则以经确认的日历为准。"
+      ]
+    ],
+    "building/build": [
+      [
+        "真实建造",
+        "历史资料记录 Build in Camp / Join PFS Project 等参与形态。"
+      ],
+      [
+        "当前项目",
+        "实际项目、适合人群与报名方式待确认。"
+      ]
+    ],
+    "work/volunteer": [
+      [
+        "参与方式",
+        "Volunteer 是当前确认的六条共创路径之一。"
+      ],
+      [
+        "申请信息",
+        "岗位、时间、条件和联系渠道待确认。"
+      ]
+    ],
+    "work/venue-hire": [
+      [
+        "场地租用",
+        "Venue Hire 是当前确认的独立共创路径。"
+      ],
+      [
+        "租用信息",
+        "适用用途、空间配置、费用和流程待确认。"
+      ]
+    ],
+    "work/p-cut": [
+      [
+        "P-CUT",
+        "历史资料将其描述为切割出自己需要的部件。"
+      ],
+      [
+        "服务信息",
+        "材料、尺寸、设备、费用和流程待确认。"
+      ]
+    ],
+    "work/idea": [
+      [
+        "从想法到制作",
+        "历史资料记录从家具到房屋的设计与制作方向。"
+      ],
+      [
+        "合作方式",
+        "提案流程与合作条件待确认。"
+      ]
+    ],
+    "work/build": [
+      [
+        "共同建造",
+        "Build With PFS 是当前确认的共创路径。"
+      ],
+      [
+        "当前机会",
+        "项目范围、资格与参与流程待确认。"
+      ]
+    ]
+  },
+  "detailByPath": {
+    "work/build": [
+      "Build With PFS 是六条当前确认的共创路径之一；当前项目与参与方式待确认。",
+      "Build With PFS is one of six confirmed collaboration paths. Current projects and participation await confirmation."
+    ],
+    "building/courses/library/cabin-company/swish": [
+      "Swish 课程属于大角怪小屋公司课程资料；当前开课信息待确认。",
+      "Swish appears in the Dajiaoguai Cabin Company course records; current classes await confirmation."
+    ],
+    "building/courses/library/cabin-company/neubau": [
+      "Neubau 组合架课程属于大角怪小屋公司课程资料；当前开课信息待确认。",
+      "Neubau shelving appears in the Dajiaoguai Cabin Company course records; current classes await confirmation."
+    ]
+  },
+  "buildingKit": {
+    "image": "building-kit-source.jpg",
+    "source": "原始资料（from松鼠_副本/派对朋友的飞船（公益性描述）.pdf · p.14",
+    "title": {
+      "zh": "大角怪｜数字盖房套件",
+      "en": "Dajiaoguai / Open Source Building Kit"
+    },
+    "original": [
+      "全球首款自搭建开源离网房屋套件",
+      "低碳可持续的个人工作室或房屋建造",
+      "Make a room!"
+    ],
+    "components": [
+      "30平米 Micro Home 数字榫卯建造套件",
+      "30KW 锂电和配套的发电系统",
+      "污水处理和灰水花园",
+      "堆肥马桶（创绿家项目）",
+      "甘多夫家庭景观套件",
+      "RADIO 远程小屋管理系统"
+    ]
+  },
+  "headerMenus": {
+    "visit": [],
+    "stay": [
+      {
+        "zh": "住宿信息",
+        "en": "Accommodation",
+        "path": "stay?section=accommodation",
+        "children": []
+      },
+      {
+        "zh": "住在 PFS",
+        "en": "Living at PFS",
+        "path": "stay?section=living",
+        "children": []
+      },
+      {
+        "zh": "这期间发生什么",
+        "en": "While You're Here",
+        "path": "stay?section=while-youre-here",
+        "children": []
+      }
+    ],
+    "building": [
+      {
+        "zh": "OPENBIKE",
+        "en": "OPENBIKE",
+        "path": "courses/openbike",
+        "children": []
+      },
+      {
+        "zh": "Stripe Canoe",
+        "en": "Stripe Canoe",
+        "path": "courses/stripe-canoe",
+        "children": []
+      },
+      {
+        "zh": "Stitch Canoe",
+        "en": "Stitch Canoe",
+        "path": "courses/stitch-canoe",
+        "children": []
+      },
+      {
+        "zh": "Paddle",
+        "en": "Paddle",
+        "path": "courses/paddle",
+        "children": []
+      },
+      {
+        "zh": "荒野建造大师班",
+        "en": "Wilderness Building Masterclass",
+        "path": "courses/wilderness",
+        "children": []
+      },
+      {
+        "zh": "未来建筑师",
+        "en": "Future Architects",
+        "path": "courses/future-architects",
+        "children": []
+      }
+    ],
+    "shop": [
+      {
+        "zh": "全部商品",
+        "en": "ALL",
+        "path": "shop?filter=all",
+        "children": []
+      },
+      {
+        "zh": "DIY KITS｜软手包",
+        "en": "DIY KITS",
+        "path": "shop?filter=diy",
+        "children": []
+      },
+      {
+        "zh": "BUILDING KITS｜大角怪套件",
+        "en": "BUILDING KITS",
+        "path": "shop?filter=building",
+        "children": []
+      },
+      {
+        "zh": "PFS GOODS",
+        "en": "PFS GOODS",
+        "path": "shop?filter=goods",
+        "children": []
+      },
+      {
+        "zh": "P-CUT｜数字制造服务",
+        "en": "P-CUT",
+        "path": "p-cut",
+        "children": []
+      },
+      {
+        "zh": "PFS船厂大厅",
+        "en": "PFS Shipyard Hall",
+        "path": "shop?section=offline",
+        "children": []
+      }
+    ],
+    "work": [
+      {
+        "zh": "志愿参与",
+        "en": "VOLUNTEER",
+        "path": "work/volunteer",
+        "children": []
+      },
+      {
+        "zh": "场地租用",
+        "en": "VENUE HIRE",
+        "path": "work/venue-hire",
+        "children": []
+      },
+      {
+        "zh": "数字制造服务",
+        "en": "P-CUT",
+        "path": "p-cut",
+        "children": []
+      },
+      {
+        "zh": "带来你的想法",
+        "en": "BRING YOUR IDEA",
+        "path": "work/idea",
+        "children": []
+      },
+      {
+        "zh": "与PFS共建",
+        "en": "BUILD WITH PFS",
+        "path": "work/build",
+        "children": []
+      }
+    ]
+  },
+  "operatingFacts": {
+    "openingHours": "10:00–18:00",
+    "openDaily": true,
+    "addressCN": "中国江苏省太仓市璜泾镇孟河村伍鹿路和花木路交叉口",
+    "addressEN": "Intersection of Wulu Road & Huamu Road, Menghe Village, Huangjing Town, Taicang, Jiangsu, China",
+    "amapPoi": "派对朋友的飞船",
+    "coordinates": "121.075687, 31.671134",
+    "checkIn": "14:00",
+    "checkOut": "12:00",
+    "breakfastHours": "08:00–10:00",
+    "breakfastIncluded": true,
+    "email": "info@pfs.cool",
+    "secondaryEmail": "partyfriendship@126.com",
+    "wechat": "pfspfs000",
+    "wechatOfficial": "PFS4YOU",
+    "xiaohongshu": "pfspfs000"
+  },
+  "stayPlanning": {
+    "single": {
+      "planningUnits": 3,
+      "recommendedPrice": 480
+    },
+    "double": {
+      "planningUnits": 3,
+      "recommendedPrice": 680
+    },
+    "shared": {
+      "planningUnits": 3,
+      "recommendedPrice": 280
+    },
+    "publicOperatingStatus": "REQUEST ONLY"
+  }
+}

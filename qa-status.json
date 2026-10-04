@@ -1,0 +1,13 @@
+{
+  "public": true,
+  "authentication": false,
+  "prerendered": true,
+  "routes": [
+    "/",
+    "/visual-tests/palazzo/home/",
+    "/visual-tests/palazzo/home-building-menu/",
+    "/visual-tests/palazzo/building/",
+    "/visual-tests/folkert/home/",
+    "/visual-tests/has/home/"
+  ]
+}

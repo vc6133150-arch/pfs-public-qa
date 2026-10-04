@@ -1,0 +1,1412 @@
+{
+  "records": [
+    {
+      "id": "openbike",
+      "type": "COURSE",
+      "titleCN": "OPENBIKE",
+      "titleEN": "OPENBIKE",
+      "summaryCN": "设计、CNC、激光与 3D 打印的历史课程记录。",
+      "summaryEN": "A historical course record spanning design, CNC, laser and 3D printing.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/openbike",
+      "imageId": null,
+      "relatedIds": [
+        "openbike-2022",
+        "school"
+      ],
+      "searchKeywords": [
+        "OPENBIKE",
+        "OPENBIKE"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "stripe-canoe",
+      "type": "COURSE",
+      "titleCN": "Stripe Canoe",
+      "titleEN": "Stripe Canoe",
+      "summaryCN": "成人长周期造船课程：设计、开料、榫卯、蒸汽弯曲、树脂、打磨与光油。",
+      "summaryEN": "A long-form adult boatbuilding course covering design, cutting, joinery, steam bending, resin, sanding and varnish.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/stripe-canoe",
+      "imageId": null,
+      "relatedIds": [
+        "shipyard",
+        "stay"
+      ],
+      "searchKeywords": [
+        "Stripe Canoe",
+        "Stripe Canoe"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "stitch-canoe",
+      "type": "COURSE",
+      "titleCN": "Stitch Canoe",
+      "titleEN": "Stitch Canoe",
+      "summaryCN": "成人或亲子两日造船课程：设计、开料、缝接、树脂、打磨与光油。",
+      "summaryEN": "A two-day adult or family boatbuilding course covering design, cutting, stitching, resin, sanding and varnish.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/stitch-canoe",
+      "imageId": null,
+      "relatedIds": [
+        "shipyard",
+        "stay"
+      ],
+      "searchKeywords": [
+        "Stitch Canoe",
+        "Stitch Canoe"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "paddle",
+      "type": "COURSE",
+      "titleCN": "Paddle",
+      "titleEN": "Paddle",
+      "summaryCN": "成人或亲子一日船桨课程：设计、开料、塑形、打磨与防水。",
+      "summaryEN": "A one-day adult or family paddle course covering design, cutting, shaping, sanding and waterproofing.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/paddle",
+      "imageId": null,
+      "relatedIds": [
+        "shipyard",
+        "stay"
+      ],
+      "searchKeywords": [
+        "Paddle",
+        "Paddle"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "furniture",
+      "type": "COURSE",
+      "titleCN": "家具课程",
+      "titleEN": "Furniture Courses",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/furniture",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "家具课程",
+        "Furniture Courses"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "digital-furniture",
+      "type": "COURSE",
+      "titleCN": "数字家具",
+      "titleEN": "Digital Furniture",
+      "summaryCN": "资料记录 20 种数字家具设计，包括 Rocket Stool、Swish 与 Neubau。",
+      "summaryEN": "Source records describe 20 digital furniture designs, including Rocket Stool, Swish and Neubau.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/digital-furniture",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "数字家具",
+        "Digital Furniture"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "rocket-stool",
+      "type": "COURSE",
+      "titleCN": "火箭凳",
+      "titleEN": "Rocket Stool",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/rocket-stool",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "火箭凳",
+        "Rocket Stool"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "course-swish",
+      "type": "COURSE",
+      "titleCN": "Swish",
+      "titleEN": "Swish",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/swish",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "Swish",
+        "Swish"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "course-neubau",
+      "type": "COURSE",
+      "titleCN": "Neubau",
+      "titleEN": "Neubau",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/neubau",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "Neubau",
+        "Neubau"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "digital-joinery",
+      "type": "COURSE",
+      "titleCN": "数字榫卯",
+      "titleEN": "Digital Joinery",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/digital-joinery",
+      "imageId": null,
+      "relatedIds": [
+        "digital-shop-2024",
+        "cabinet",
+        "p-cut"
+      ],
+      "searchKeywords": [
+        "数字榫卯",
+        "Digital Joinery"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "energy",
+      "type": "COURSE",
+      "titleCN": "发电",
+      "titleEN": "Energy",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/energy",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "发电",
+        "Energy"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "water",
+      "type": "COURSE",
+      "titleCN": "水系统",
+      "titleEN": "Water System",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/water",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "水系统",
+        "Water System"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "architecture",
+      "type": "COURSE",
+      "titleCN": "建筑",
+      "titleEN": "Architecture",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/architecture",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "建筑",
+        "Architecture"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "painting",
+      "type": "COURSE",
+      "titleCN": "刷漆",
+      "titleEN": "Painting",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/painting",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "刷漆",
+        "Painting"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "cement",
+      "type": "COURSE",
+      "titleCN": "水泥",
+      "titleEN": "Cement",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/cement",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "水泥",
+        "Cement"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "hardware-welding",
+      "type": "COURSE",
+      "titleCN": "五金焊接",
+      "titleEN": "Hardware & Welding",
+      "summaryCN": "PFS 历史课程资料。",
+      "summaryEN": "PFS historical course record.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/hardware-welding",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "五金焊接",
+        "Hardware & Welding"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "wilderness",
+      "type": "COURSE",
+      "titleCN": "荒野建造大师班",
+      "titleEN": "Wilderness Building Masterclass",
+      "summaryCN": "历史参与式荒野与保护地建造课程。",
+      "summaryEN": "A historical participatory wilderness and conservation-area building programme.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/wilderness",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "荒野建造大师班",
+        "Wilderness Building Masterclass"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "future-architects",
+      "type": "COURSE",
+      "titleCN": "未来建筑师",
+      "titleEN": "Future Architects",
+      "summaryCN": "面向 8–14 岁的历史双语独立冬令营与夏令营。",
+      "summaryEN": "A historical bilingual independent winter and summer camp for ages 8–14.",
+      "tags": [
+        "building",
+        "learning",
+        "making"
+      ],
+      "status": "SOURCE",
+      "route": "courses/future-architects",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "未来建筑师",
+        "Future Architects"
+      ],
+      "publicOperatingStatus": "OPEN FOR ENROLLMENT"
+    },
+    {
+      "id": "avant",
+      "type": "PRODUCT",
+      "titleCN": "阿凡提",
+      "titleEN": "Afanti",
+      "summaryCN": "阿凡提收录于 PFS 产品资料。",
+      "summaryEN": "Afanti appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/avant",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "阿凡提",
+        "Afanti"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "coaster",
+      "type": "PRODUCT",
+      "titleCN": "DIY杯垫",
+      "titleEN": "DIY Coaster",
+      "summaryCN": "DIY杯垫收录于 PFS 产品资料。",
+      "summaryEN": "DIY Coaster appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/coaster",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "DIY杯垫",
+        "DIY Coaster"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "clock",
+      "type": "PRODUCT",
+      "titleCN": "创意时钟",
+      "titleEN": "Creative Clock",
+      "summaryCN": "创意时钟收录于 PFS 产品资料。",
+      "summaryEN": "Creative Clock appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/clock",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "创意时钟",
+        "Creative Clock"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "animals",
+      "type": "PRODUCT",
+      "titleCN": "动物摆件",
+      "titleEN": "Animal Ornaments",
+      "summaryCN": "动物摆件收录于 PFS 产品资料。",
+      "summaryEN": "Animal Ornaments appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/animals",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "动物摆件",
+        "Animal Ornaments"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "badger",
+      "type": "PRODUCT",
+      "titleCN": "狗獾椅子",
+      "titleEN": "Badger Chair",
+      "summaryCN": "狗獾椅子收录于 PFS 产品资料。",
+      "summaryEN": "Badger Chair appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/badger",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "狗獾椅子",
+        "Badger Chair"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "opener",
+      "type": "PRODUCT",
+      "titleCN": "开瓶器",
+      "titleEN": "Bottle Opener",
+      "summaryCN": "开瓶器收录于 PFS 产品资料。",
+      "summaryEN": "Bottle Opener appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/opener",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "开瓶器",
+        "Bottle Opener"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "stool",
+      "type": "PRODUCT",
+      "titleCN": "三角凳",
+      "titleEN": "Triangle Stool",
+      "summaryCN": "三角凳收录于 PFS 产品资料。",
+      "summaryEN": "Triangle Stool appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/stool",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "三角凳",
+        "Triangle Stool"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "cat",
+      "type": "PRODUCT",
+      "titleCN": "瓦猫",
+      "titleEN": "Tile Cat",
+      "summaryCN": "瓦猫收录于 PFS 产品资料。",
+      "summaryEN": "Tile Cat appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/cat",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "瓦猫",
+        "Tile Cat"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "cabinet",
+      "type": "PRODUCT",
+      "titleCN": "富柜",
+      "titleEN": "Fugui Cabinet",
+      "summaryCN": "富柜收录于 PFS 产品资料。",
+      "summaryEN": "Fugui Cabinet appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/cabinet",
+      "imageId": null,
+      "relatedIds": [
+        "digital-shop-2024",
+        "digital-joinery",
+        "p-cut"
+      ],
+      "searchKeywords": [
+        "富柜",
+        "Fugui Cabinet"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true,
+      "reviewAcquisitionModes": [
+        "DIY",
+        "READY_TO_USE"
+      ],
+      "diyPaths": [
+        "SHIP_HOME",
+        "MAKE_AT_PFS"
+      ],
+      "diyActions": [
+        "SANDING",
+        "ASSEMBLY",
+        "RECOLOR"
+      ],
+      "readyPaths": [
+        "DELIVERY",
+        "PICK_UP_AT_PFS"
+      ],
+      "sourcePickupRate": 0.95
+    },
+    {
+      "id": "product-swish",
+      "type": "PRODUCT",
+      "titleCN": "Swish Chair",
+      "titleEN": "Swish Chair",
+      "summaryCN": "Swish Chair收录于 PFS 产品资料。",
+      "summaryEN": "Swish Chair appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/swish",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "Swish Chair",
+        "Swish Chair"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true
+    },
+    {
+      "id": "product-neubau",
+      "type": "PRODUCT",
+      "titleCN": "Neubau",
+      "titleEN": "Neubau",
+      "summaryCN": "Neubau收录于 PFS 产品资料。",
+      "summaryEN": "Neubau appears in PFS product records.",
+      "tags": [
+        "shop",
+        "diy-kit"
+      ],
+      "status": "SOURCE",
+      "route": "products/neubau",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "Neubau",
+        "Neubau"
+      ],
+      "publicOperatingStatus": "AVAILABLE TO BUY",
+      "availableToBuy": true
+    },
+    {
+      "id": "dajiaoguai-kit",
+      "type": "PRODUCT",
+      "titleCN": "大角怪｜数字盖房套件",
+      "titleEN": "Dajiaoguai | Open Source Building Kit",
+      "summaryCN": "PFS 原始资料记录的开源离网房屋方案。",
+      "summaryEN": "An open-source off-grid house kit recorded in PFS source material.",
+      "tags": [
+        "shop",
+        "building-kit",
+        "house"
+      ],
+      "status": "SOURCE",
+      "route": "products/dajiaoguai",
+      "imageId": "building-kit-source.jpg",
+      "relatedIds": [
+        "big-foot",
+        "community",
+        "school"
+      ],
+      "searchKeywords": [
+        "大角怪",
+        "数字盖房套件",
+        "Open Source Building Kit"
+      ]
+    },
+    {
+      "id": "boat-2018",
+      "type": "PROJECT",
+      "titleCN": "自己造的船，来到水边",
+      "titleEN": "A boat we built, taken to the water",
+      "summaryCN": "从木头切割、拼接到打磨，参与者在近三个月里造好自己的船，并将它带到水边。",
+      "summaryEN": "Participants cut, joined and sanded timber over nearly three months, then took their boat to the water.",
+      "tags": [
+        "archive",
+        "historical-project"
+      ],
+      "status": "SOURCE",
+      "route": "archive/boat-2018",
+      "imageId": "archive-boat-making.jpg",
+      "relatedIds": [
+        "shipyard",
+        "stripe-canoe",
+        "stitch-canoe",
+        "paddle"
+      ],
+      "searchKeywords": [
+        "自己造的船，来到水边",
+        "A boat we built, taken to the water",
+        "武汉 / 水边",
+        "Wuhan / the water"
+      ]
+    },
+    {
+      "id": "xinjiang-2019",
+      "type": "PROJECT",
+      "titleCN": "去新疆盖房子",
+      "titleEN": "A building invitation in Xinjiang",
+      "summaryCN": "历史招募提出在南山建造一间可由朋友共同搭建的离网小屋，介绍数字榫卯、发电和水处理的方案。图像为历史方案与过程资料，不作为当前场地实景。",
+      "summaryEN": "A historical invitation proposed a self-sufficient cabin in Nanshan and described digital joinery, energy and water systems. This is archival planning material, not the current site.",
+      "tags": [
+        "archive",
+        "historical-project"
+      ],
+      "status": "SOURCE",
+      "route": "archive/xinjiang-2019",
+      "imageId": "archive-xinjiang-process.jpg",
+      "relatedIds": [],
+      "searchKeywords": [
+        "去新疆盖房子",
+        "A building invitation in Xinjiang",
+        "新疆 · 乌鲁木齐南山",
+        "Nanshan, Ürümqi, Xinjiang"
+      ]
+    },
+    {
+      "id": "openbike-2022",
+      "type": "PROJECT",
+      "titleCN": "OPENBIKE 夜校",
+      "titleEN": "OPENBIKE evening school",
+      "summaryCN": "夜校以开源木制自行车为对象，参与者修改设计，学习数字榫卯与 CNC 加工，并制作自行车。",
+      "summaryEN": "An evening workshop used the open-source wooden bicycle to learn design changes, digital joinery, CNC fabrication and assembly.",
+      "tags": [
+        "archive",
+        "historical-project"
+      ],
+      "status": "SOURCE",
+      "route": "archive/openbike-2022",
+      "imageId": "archive-openbike.jpg",
+      "relatedIds": [
+        "openbike",
+        "school"
+      ],
+      "searchKeywords": [
+        "OPENBIKE 夜校",
+        "OPENBIKE evening school",
+        "武汉",
+        "Wuhan"
+      ]
+    },
+    {
+      "id": "songshan-2023",
+      "type": "PROJECT",
+      "titleCN": "松鼠与大山自然社区改造",
+      "titleEN": "Squirrel & Mountain community adaptation",
+      "summaryCN": "在旧纺织厂中加入可拆卸的胶合板木构，以 CNC 切割部件与干式装配组织空间；社区居民参与建造。项目发表于 2024 年。",
+      "summaryEN": "Demountable plywood structures were cut by CNC and dry assembled inside a former textile factory, with community participation. Published in 2024.",
+      "tags": [
+        "archive",
+        "historical-project"
+      ],
+      "status": "SOURCE",
+      "route": "archive/songshan-2023",
+      "imageId": "archive-shanghai-interior.jpg",
+      "relatedIds": [],
+      "searchKeywords": [
+        "松鼠与大山自然社区改造",
+        "Squirrel & Mountain community adaptation",
+        "上海 · 闵行",
+        "Minhang, Shanghai"
+      ]
+    },
+    {
+      "id": "digital-shop-2024",
+      "type": "PROJECT",
+      "titleCN": "PFS 社区数字家具商店",
+      "titleEN": "PFS community digital furniture shop",
+      "summaryCN": "2024 年的项目文章记录了数字家具商店的榫卯木构和 CNC 加工过程；这是历史项目，不是当前 PFS 建造学校的线下店。",
+      "summaryEN": "A 2024 project article records timber joinery and CNC fabrication for a digital furniture shop. It is a historical project, not the current on-site shop.",
+      "tags": [
+        "archive",
+        "historical-project"
+      ],
+      "status": "SOURCE",
+      "route": "archive/digital-shop-2024",
+      "imageId": "archive-digital-shop.jpg",
+      "relatedIds": [
+        "p-cut",
+        "digital-furniture",
+        "digital-joinery",
+        "cabinet"
+      ],
+      "searchKeywords": [
+        "PFS 社区数字家具商店",
+        "PFS community digital furniture shop",
+        "历史城市项目",
+        "Historical urban project"
+      ]
+    },
+    {
+      "id": "community",
+      "type": "SPACE",
+      "titleCN": "大角怪社区",
+      "titleEN": "Dajiaoguai Community",
+      "summaryCN": "大角怪社区是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Dajiaoguai Community is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [
+        "big-foot",
+        "dajiaoguai-kit"
+      ],
+      "searchKeywords": [
+        "大角怪社区",
+        "Dajiaoguai Community"
+      ]
+    },
+    {
+      "id": "school",
+      "type": "SPACE",
+      "titleCN": "开源建造学校",
+      "titleEN": "Open-source Building School",
+      "summaryCN": "开源建造学校是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Open-source Building School is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [
+        "openbike",
+        "digital-joinery",
+        "p-cut"
+      ],
+      "searchKeywords": [
+        "开源建造学校",
+        "Open-source Building School"
+      ]
+    },
+    {
+      "id": "big-ship",
+      "type": "SPACE",
+      "titleCN": "大飞船",
+      "titleEN": "The Spaceship",
+      "summaryCN": "大飞船是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "The Spaceship is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "大飞船",
+        "The Spaceship"
+      ]
+    },
+    {
+      "id": "shipyard",
+      "type": "SPACE",
+      "titleCN": "船厂",
+      "titleEN": "Shipyard",
+      "summaryCN": "船厂是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Shipyard is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [
+        "boat-2018",
+        "stripe-canoe",
+        "stitch-canoe",
+        "paddle"
+      ],
+      "searchKeywords": [
+        "船厂",
+        "Shipyard"
+      ]
+    },
+    {
+      "id": "soft-house",
+      "type": "SPACE",
+      "titleCN": "软手屋",
+      "titleEN": "Soft House",
+      "summaryCN": "软手屋是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Soft House is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "软手屋",
+        "Soft House"
+      ]
+    },
+    {
+      "id": "staff-house",
+      "type": "SPACE",
+      "titleCN": "员工小屋",
+      "titleEN": "Staff Cabin",
+      "summaryCN": "员工小屋是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Staff Cabin is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "员工小屋",
+        "Staff Cabin"
+      ]
+    },
+    {
+      "id": "tree",
+      "type": "SPACE",
+      "titleCN": "古树",
+      "titleEN": "Ancient Tree",
+      "summaryCN": "古树是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Ancient Tree is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "古树",
+        "Ancient Tree"
+      ]
+    },
+    {
+      "id": "parking",
+      "type": "SPACE",
+      "titleCN": "停车场",
+      "titleEN": "Parking",
+      "summaryCN": "停车场是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Parking is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "停车场",
+        "Parking"
+      ]
+    },
+    {
+      "id": "farmland",
+      "type": "SPACE",
+      "titleCN": "农田",
+      "titleEN": "Farmland",
+      "summaryCN": "农田是 PFS 场地空间索引中的一个节点。",
+      "summaryEN": "Farmland is one of the nine PFS site nodes. ",
+      "tags": [
+        "site",
+        "space"
+      ],
+      "status": "LOCKED",
+      "route": "map",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "农田",
+        "Farmland"
+      ]
+    },
+    {
+      "id": "visit",
+      "type": "INFO",
+      "titleCN": "来到 PFS",
+      "titleEN": "Visit PFS",
+      "summaryCN": "OPEN DAILY 10:00–18:00；江苏太仓 PFS 建造学校到访信息。",
+      "summaryEN": "Open daily 10:00–18:00. Visit information for PFS Building School in Taicang, Jiangsu.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "visit",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "来到 PFS",
+        "Visit PFS"
+      ]
+    },
+    {
+      "id": "stay",
+      "type": "INFO",
+      "titleCN": "住进 PFS",
+      "titleEN": "Stay at PFS",
+      "summaryCN": "住宿、生活与同期内容。",
+      "summaryEN": "Accommodation, living and what is on during a stay.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "stay",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "住进 PFS",
+        "Stay at PFS"
+      ]
+    },
+    {
+      "id": "building",
+      "type": "INFO",
+      "titleCN": "建造体验",
+      "titleEN": "Building",
+      "summaryCN": "可亲手参与的具体内容入口。",
+      "summaryEN": "Concrete ways to take part.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "building",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "建造体验",
+        "Building"
+      ]
+    },
+    {
+      "id": "shop",
+      "type": "INFO",
+      "titleCN": "带走 PFS",
+      "titleEN": "Shop",
+      "summaryCN": "PFS 商品与线下商店信息。",
+      "summaryEN": "PFS objects and offline shop information.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "shop",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "带走 PFS",
+        "Shop"
+      ]
+    },
+    {
+      "id": "work-with-us",
+      "type": "INFO",
+      "titleCN": "与 PFS 共创",
+      "titleEN": "Work with PFS",
+      "summaryCN": "五种合作与参与意图。",
+      "summaryEN": "Five ways to work with PFS.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "work-with-us",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "与 PFS 共创",
+        "Work with PFS"
+      ]
+    },
+    {
+      "id": "about",
+      "type": "INFO",
+      "titleCN": "关于我们",
+      "titleEN": "About Us",
+      "summaryCN": "PFS 是谁及为什么成为建造学校。",
+      "summaryEN": "Who PFS is and why it is becoming a building school.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "about",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "关于我们",
+        "About Us"
+      ]
+    },
+    {
+      "id": "faq",
+      "type": "INFO",
+      "titleCN": "常见问题",
+      "titleEN": "FAQs",
+      "summaryCN": "PFS 实用信息入口。",
+      "summaryEN": "Confirmed information and open questions.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "faq",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "常见问题",
+        "FAQs"
+      ]
+    },
+    {
+      "id": "contact",
+      "type": "INFO",
+      "titleCN": "联系 PFS",
+      "titleEN": "Contact PFS",
+      "summaryCN": "info@pfs.cool 与 PFS 联系渠道。",
+      "summaryEN": "Contact PFS through info@pfs.cool and confirmed social channels.",
+      "tags": [
+        "information"
+      ],
+      "status": "LOCKED",
+      "route": "contact",
+      "imageId": null,
+      "relatedIds": [],
+      "searchKeywords": [
+        "联系 PFS",
+        "Contact PFS"
+      ]
+    },
+    {
+      "id": "p-cut",
+      "type": "INFO",
+      "titleCN": "P-CUT｜数字制造服务",
+      "titleEN": "P-CUT | Digital Fabrication",
+      "summaryCN": "从已有数字文件进入材料加工与零件制作。",
+      "summaryEN": "A fabrication path from an existing digital file to material and parts.",
+      "tags": [
+        "making",
+        "fabrication",
+        "tools",
+        "parts"
+      ],
+      "status": "LOCKED",
+      "route": "p-cut",
+      "imageId": "asset-cnc-router.jpg",
+      "relatedIds": [
+        "digital-shop-2024",
+        "digital-joinery",
+        "cabinet"
+      ],
+      "searchKeywords": [
+        "P-CUT",
+        "PCUT",
+        "数字制造",
+        "CNC",
+        "切割",
+        "部件",
+        "digital fabrication",
+        "router"
+      ],
+      "entryPoints": [
+        "shop-menu",
+        "shop-landing",
+        "work-with-us",
+        "search"
+      ],
+      "sourcePricePerSheet": 800,
+      "sourcePriceIncludes": [
+        "MATERIAL",
+        "CUTTING"
+      ],
+      "fileResponsibility": "USER_PREPARES_FABRICATION_FILE"
+    },
+    {
+      "id": "big-foot",
+      "type": "PROJECT",
+      "titleCN": "Big Foot｜大角怪公众共建",
+      "titleEN": "Big Foot | Dajiaoguai Public Co-build",
+      "summaryCN": "2024-05-31 至 2025-09-20 的大角怪公众共建记录，来源包含三篇文章、16 页资料。",
+      "summaryEN": "A Dajiaoguai public co-build record spanning 2024-05-31 to 2025-09-20, documented across three articles and 16 pages.",
+      "tags": [
+        "project",
+        "building",
+        "community",
+        "dajiaoguai"
+      ],
+      "status": "SOURCE",
+      "route": "archive/big-foot",
+      "imageId": "asset-team-build-close.jpg",
+      "relatedIds": [
+        "community",
+        "dajiaoguai-kit",
+        "build-with-pfs"
+      ],
+      "searchKeywords": [
+        "Big Foot",
+        "大角怪",
+        "公众共建",
+        "万物好搭季"
+      ]
+    }
+  ],
+  "reviewParameters": {
+    "stay": {
+      "singleNight": 480,
+      "doubleNight": 680,
+      "sharedPersonNight": 280,
+      "buildWeekendShared": 1880,
+      "singleUpgrade": 300
+    },
+    "venue": {
+      "smallHalfDayFrom": 3000,
+      "smallUpTo": 15,
+      "mediumHalfDayFrom": 6000,
+      "mediumUpTo": 30,
+      "largeRange": "30–80"
+    },
+    "pCut": {
+      "perSheet": 800,
+      "includes": [
+        "material",
+        "cutting"
+      ]
+    }
+  }
+}
