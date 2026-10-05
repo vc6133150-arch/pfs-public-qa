@@ -1,0 +1,11 @@
+# WEBSITE CONTENT MASTER
+执行读取顺序：
+1. 00_START_HERE
+2. ORIGINAL_WORDING
+3. WEBSITE_MASTER
+4. 对应内容模块
+5. ASSET_POLICY
+6. 99_DECISIONS
+
+**DRAFT 仅供参考；未经明确确认升级 LOCKED，不得进入最终网站执行。**
+中英文应自然完整；翻译草案不得反向覆盖 ORIGINAL。
